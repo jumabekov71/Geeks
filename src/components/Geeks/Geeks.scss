@@ -12,14 +12,12 @@
   padding: 0;
   list-style-type: none;
   background-color: rgb(245, 235, 215);
-  /* светло-бежевый цвет фона */
   border-radius: 10px;
   padding: 20px;
 }
 
 .pokemon-item {
   background: rgb(173, 216, 230);
-  /* светло-голубой цвет фона */
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 16px;
@@ -50,7 +48,6 @@
   .pokemon-name {
     font-family: 'Nunito' sans-serif;
     margin-top: 8px;
-    // font-weight: bold;
   }
   
 }
